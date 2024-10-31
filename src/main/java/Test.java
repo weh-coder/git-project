@@ -3,7 +3,7 @@
  *
  * @author weh-coder
  * @des 这是一个类
- * @date 2024/11/1
+ * @date 2024/10/31
  */
 public class Test {
     public static void main(String[] args) {
@@ -11,5 +11,6 @@ public class Test {
         System.out.println("Hello noob");
         System.out.println("hot-fix");
         System.out.println("master commit");
+        System.out.println("hot-fix test-2 commit");
     }
 }
