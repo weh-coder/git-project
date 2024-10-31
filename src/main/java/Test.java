@@ -10,5 +10,6 @@ public class Test {
         System.out.println("Hello Git!!!");
         System.out.println("Hello noob");
         System.out.println("hot-fix");
+        System.out.println("master commit");
     }
 }
