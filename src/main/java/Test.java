@@ -12,5 +12,8 @@ public class Test {
         System.out.println("hot-fix");
         System.out.println("master commit");
         System.out.println("hot-fix test-2 commit");
+
+
+        System.out.println("push test");
     }
 }
